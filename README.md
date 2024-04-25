@@ -14,5 +14,5 @@ Para executar o teste na sua máquina:
 ```
 5. Execute o teste com o comando:
  ```bash
-    pytest -s test_project1-pytest.py
+    pytest -s test_project1.py
 ```
